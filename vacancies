@@ -1,0 +1,26 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/76767074?from=vacancy_search_list&query=python",
+        "salary_fork": "60 000 – 100 000 руб.",
+        "company_name": "Skyeng",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/78926884?from=vacancy_search_list&query=python",
+        "salary_fork": "70 000 – 100 000 руб.",
+        "company_name": "РусЭкспресс",
+        "city": "Москва"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/78853485?from=vacancy_search_list&query=python",
+        "salary_fork": "130 000 – 130 000 руб.",
+        "company_name": "БО-ЭНЕРГО",
+        "city": "Москва, Электрозаводская"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/78665689?from=vacancy_search_list&query=python",
+        "salary_fork": "160 000 – 180 000 руб.",
+        "company_name": "Enjoypro",
+        "city": "Санкт-Петербург"
+    }
+]
